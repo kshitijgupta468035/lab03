@@ -8,7 +8,5 @@ public class Question1 {
         String userName = scanner.nextLine().trim();
         System.out.println("Welcome, " + userName + "!");
         scanner.close();
-
-
     }
 }
