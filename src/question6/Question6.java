@@ -12,9 +12,7 @@ public class Question6 {
         } else {
             System.out.println((char) (char2) + " " + (char) (char1));
         }
-
-
-        scanner.close();
+        scanner.close();//closing is necessary
 
 
     }
